@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./src",
+      "paths": {
+        "ui": ["./src/ui"],
+        "middleware": ["./src/middleware"]
+      }
+    }
+  }
